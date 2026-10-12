@@ -1,0 +1,17 @@
+# ── Private drafts: never published ──────────────────
+private/
+*.private.md
+ 
+# ── Word source files stay on your PC ────────────────
+originals/
+ 
+# ── Large media: attach to a Release instead (Section 8.5) ─
+*.mp4
+*.mov
+ 
+# ── Office and OS clutter ────────────────────────────
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
