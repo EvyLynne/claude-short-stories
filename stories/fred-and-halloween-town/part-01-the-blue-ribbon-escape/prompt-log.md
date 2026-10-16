@@ -13,5 +13,4 @@ Model: ChatGPT (story text); Claude (Anthropic) (movie versions) | Written: Octo
 ## Notes
 
 - Line breaks inside a prompt are shown as " / ".
-- The first movie prompt also included a link to the ChatGPT draft; the link is left out here.
 - Part 1 has one version in this repository because its drafts were written in ChatGPT. From Part 2 on, every revision was made in Claude and each one is saved in `iterations/`.
