@@ -6,7 +6,7 @@
 
 <p align="center"><img src="images/Fred_Fluffy_Cauldron_Painting.jpeg" alt="My canvas painting: a purple cauldron with green steam, a gnarled brown tree, two gray bats in the sky, and two orange pumpkins, Fred and Fluffy, with painted faces and green stems" width="360"></p>
 
-*The painting that inspired the story: the cauldron, the gnarled tree, the bats, Fred and Fluffy.*
+*The painting that inspired the story: the cauldron, the gnarled tree, the bats, Fred and Fluffy by Valerie Mignault.*
 
 Ruling Halloween Town was wonderful.
 
