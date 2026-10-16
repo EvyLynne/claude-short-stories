@@ -4,7 +4,7 @@
 
 *Fred and Halloween Town, Part 1. Version 1 of 1: see the [prompt log](prompt-log.md) for how it was made.*
 
-![Fred, a small clay pumpkin painted orange with a green leaf, black eyes with eyelashes on one side, a triangle nose and a wide smile](../../../assets/fred-painted-pumpkin.jpg)
+<p align="center"><img src="images/Fred_Painted_Pumpkin.jpeg" alt="Fred, a small clay pumpkin painted orange with a green leaf, black eyes with eyelashes on one side, a triangle nose and a wide smile" width="360"></p>
 
 *The real Fred: the painted clay pumpkin that inspired the story.*
 
