@@ -14,7 +14,7 @@ It was also exhausting.
 
 After judging forty-one costume contests in a single week, Princess Fred announced he was taking a break.
 
-He packed nothing, because pumpkins don't have luggage.
+He packed nothing, because pumpkins don’t have luggage.
 
 He brought two companions.
 
@@ -30,13 +30,13 @@ Sam never actually napped. Sam supervised.
 
 Two bats circled overhead. Their names were Pip and Squeak, and they were on patrol, as usual.
 
-"Unidentified cauldron, bearing left," reported Pip.
+“Unidentified cauldron, bearing left,” reported Pip.
 
-"Bearing left!" squeaked Squeak, one octave higher.
+“Bearing left!” squeaked Squeak, one octave higher.
 
-"It's bubbling," said Pip.
+“It’s bubbling,” said Pip.
 
-"Bubbling!" squeaked Squeak.
+“Bubbling!” squeaked Squeak.
 
 It was.
 
@@ -50,35 +50,35 @@ One sip, and every citizen would obey her forever.
 
 She stirred. She sniffed. She frowned at her recipe.
 
-"Cinnamon. Nutmeg. Cloves. And one whole pumpkin, offered to the evil spirits."
+“Cinnamon. Nutmeg. Cloves. And one whole pumpkin, offered to the evil spirits.”
 
 She peeked around the tree.
 
 She saw Fluffy.
 
-"Perfect," she whispered.
+“Perfect,” she whispered.
 
 Before Fred could blink his painted eyes, Griselda scooped up Fluffy and held him over the cauldron.
 
-"FLUFFY!" cried Fred.
+“FLUFFY!” cried Fred.
 
-"I KNEW this vacation was a bad idea!" cried Fluffy.
+“I KNEW this vacation was a bad idea!” cried Fluffy.
 
 Fred could not climb. Fred could not fly. Fred could not even reach.
 
 But Fred was royalty, and royalty delegates.
 
-"Sam!" he shouted. "Pip! Squeak! By order of the Princess, save that pumpkin!"
+“Sam!” he shouted. “Pip! Squeak! By order of the Princess, save that pumpkin!”
 
-"Save that pumpkin!" squeaked Squeak, who couldn't help it.
+“Save that pumpkin!” squeaked Squeak, who couldn’t help it.
 
-Pip dove for the witch's hat and yanked it over her eyes.
+Pip dove for the witch’s hat and yanked it over her eyes.
 
 Squeak snatched the recipe and flew it straight up into the dark.
 
 And Sam leapt.
 
-Sam landed on Griselda's shoulders with every claw she owned.
+Sam landed on Griselda’s shoulders with every claw she owned.
 
 The witch shrieked. She spun. She swatted with her spoon.
 
@@ -90,37 +90,37 @@ The gnarled old tree, which had been listening the whole time, lifted one root. 
 
 She tripped.
 
-Fluffy flew out of her hands, bounced once, and rolled right into the cauldron's leg.
+Fluffy flew out of her hands, bounced once, and rolled right into the cauldron’s leg.
 
-CLANG!
+**CLANG!**
 
 The cauldron wobbled. It tipped. It had never liked Griselda anyway.
 
-SPLOOSH!
+**SPLOOSH!**
 
 Green potion poured over the witch from hat to boots.
 
 She sat in the puddle, blinking.
 
-Without its final ingredient, the potion wasn't evil at all.
+Without its final ingredient, the potion wasn’t evil at all.
 
 It was just pumpkin spice.
 
 Griselda licked her lips.
 
-"Oh," she said. "That's actually quite good."
+“Oh,” she said. “That’s actually quite good.”
 
 Fred rolled forward and gave her his sternest look, which was difficult with a permanent smile.
 
-"Griselda Wartwhistle, you tried to sacrifice my best friend."
+“Griselda Wartwhistle, you tried to sacrifice my best friend.”
 
-"I did," she admitted.
+“I did,” she admitted.
 
-"Your punishment," said Fred, "is to serve that drink at every town festival. Free. Forever. With no pumpkins in it."
+“Your punishment,” said Fred, “is to serve that drink at every town festival. Free. Forever. With no pumpkins in it.”
 
-"Mission accomplished," said Pip.
+“Mission accomplished,” said Pip.
 
-"Accomplished!" squeaked Squeak.
+“Accomplished!” squeaked Squeak.
 
 The tree rustled.
 
@@ -128,7 +128,7 @@ Sam licked one paw, as if nothing had happened.
 
 Fluffy rolled over to Fred, slightly dented and very relieved.
 
-"Next vacation," said Fluffy, "we go to the beach."
+“Next vacation,” said Fluffy, “we go to the beach.”
 
 Fred smiled his familiar smile.
 
